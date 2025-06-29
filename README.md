@@ -109,14 +109,12 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-## 📄 License
 
-MIT License. See `LICENSE` for details.
 
 ---
 
 ## 👥 Team
 
-Built with ❤️ by [Your Name] during [Hackathon Name].
+Built by Arjun Joshi and Bharat Lalwani 
 
 ---
