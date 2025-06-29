@@ -25,7 +25,7 @@ RESQ-AI allows users to send a message, which is analyzed by an AI model to dete
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, Leaflet.js
+- **Frontend**: HTML, Python, TypeScript, Leaflet.js
 - **Backend**: Python, Flask
 - **ML**: Scikit-learn (TF-IDF + Logistic Regression)
 - **Alerts**: Twilio API
