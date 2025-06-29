@@ -1,7 +1,7 @@
 
 # 🚨 RESQ-AI
 
-**RESQ-AI** is an intelligent SOS alert system that uses natural language processing to detect real-time emergency messages and plot the user's live location on a map. Built for hackathons and real-world disaster response scenarios.
+**RESQ-AI** is an intelligent SOS alert system that uses natural language processing to detect real-time emergency messages and plot the user's live location on a map. Built for real-world disaster response scenarios.
 
 ---
 
