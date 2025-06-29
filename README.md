@@ -97,19 +97,9 @@ The login/signup system is for UI purposes only — no real backend or database 
 
 ---
 
-## 📸 Screenshots
-
-*(Add your demo screenshots or GIFs here)*
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
-
----
-
-
 
 ---
 
