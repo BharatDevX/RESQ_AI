@@ -1,0 +1,8 @@
+{
+  "name": "RESQ-AI: Intelligent SOS System",
+  "description": "An intelligent SOS alert system that uses an AI model to detect if a user's message is a real emergency. If it is, it simulates sending an SMS alert and plots the user's live location on a map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
